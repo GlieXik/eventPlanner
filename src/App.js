@@ -1,9 +1,7 @@
-import logo from './logo.svg';
-
 function App() {
   return (
     <>
-      <div>f</div>
+      <p>fAdsads fds fsadf as IHKUGkYGi s</p>
     </>
   );
 }
